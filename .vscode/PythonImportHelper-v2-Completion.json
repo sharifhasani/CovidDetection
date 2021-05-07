@@ -1,0 +1,2531 @@
+[
+    {
+        "label": "glob",
+        "importPath": "glob",
+        "description": "glob",
+        "isExtraImport": true,
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "importPath": "glob",
+        "description": "glob",
+        "isExtraImport": true,
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "importPath": "glob",
+        "description": "glob",
+        "isExtraImport": true,
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "importPath": "glob",
+        "description": "glob",
+        "isExtraImport": true,
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "importPath": "glob",
+        "description": "glob",
+        "isExtraImport": true,
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "importPath": "glob",
+        "description": "glob",
+        "isExtraImport": true,
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "GridSearchCV",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "GridSearchCV",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "GridSearchCV",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "GridSearchCV",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "GridSearchCV",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "GridSearchCV",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "VGG16",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet50",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "MobileNet",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "MobileNetV2",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "InceptionV3",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "Xception",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "DenseNet169",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "VGG16",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet50",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "MobileNet",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "MobileNetV2",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "InceptionV3",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "Xception",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "DenseNet169",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "VGG16",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet50",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "MobileNet",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "MobileNetV2",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "InceptionV3",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "Xception",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "DenseNet169",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "VGG16",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet50",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "MobileNet",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "MobileNetV2",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "InceptionV3",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "Xception",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "DenseNet169",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "VGG16",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet50",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "MobileNet",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "MobileNetV2",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "InceptionV3",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "Xception",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "DenseNet169",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "VGG16",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet50",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "MobileNet",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "MobileNetV2",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "InceptionV3",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "Xception",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "DenseNet169",
+        "importPath": "keras.applications",
+        "description": "keras.applications",
+        "isExtraImport": true,
+        "detail": "keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_input",
+        "importPath": "tensorflow.keras.applications.vgg16",
+        "description": "tensorflow.keras.applications.vgg16",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.applications.vgg16",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_input",
+        "importPath": "tensorflow.keras.applications.vgg16",
+        "description": "tensorflow.keras.applications.vgg16",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.applications.vgg16",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_input",
+        "importPath": "tensorflow.keras.applications.vgg16",
+        "description": "tensorflow.keras.applications.vgg16",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.applications.vgg16",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_input",
+        "importPath": "tensorflow.keras.applications.vgg16",
+        "description": "tensorflow.keras.applications.vgg16",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.applications.vgg16",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_input",
+        "importPath": "tensorflow.keras.applications.vgg16",
+        "description": "tensorflow.keras.applications.vgg16",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.applications.vgg16",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_input",
+        "importPath": "tensorflow.keras.applications.vgg16",
+        "description": "tensorflow.keras.applications.vgg16",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.applications.vgg16",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "importPath": "tensorflow.keras.preprocessing",
+        "description": "tensorflow.keras.preprocessing",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "importPath": "tensorflow.keras.preprocessing",
+        "description": "tensorflow.keras.preprocessing",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "importPath": "tensorflow.keras.preprocessing",
+        "description": "tensorflow.keras.preprocessing",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "importPath": "tensorflow.keras.preprocessing",
+        "description": "tensorflow.keras.preprocessing",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "importPath": "tensorflow.keras.preprocessing",
+        "description": "tensorflow.keras.preprocessing",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "importPath": "tensorflow.keras.preprocessing",
+        "description": "tensorflow.keras.preprocessing",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Flatten",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Flatten",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Flatten",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Flatten",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Flatten",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Flatten",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "SparseCategoricalCrossentropy",
+        "importPath": "keras.losses",
+        "description": "keras.losses",
+        "isExtraImport": true,
+        "detail": "keras.losses",
+        "documentation": {}
+    },
+    {
+        "label": "CategoricalCrossentropy",
+        "importPath": "keras.losses",
+        "description": "keras.losses",
+        "isExtraImport": true,
+        "detail": "keras.losses",
+        "documentation": {}
+    },
+    {
+        "label": "SparseCategoricalCrossentropy",
+        "importPath": "keras.losses",
+        "description": "keras.losses",
+        "isExtraImport": true,
+        "detail": "keras.losses",
+        "documentation": {}
+    },
+    {
+        "label": "CategoricalCrossentropy",
+        "importPath": "keras.losses",
+        "description": "keras.losses",
+        "isExtraImport": true,
+        "detail": "keras.losses",
+        "documentation": {}
+    },
+    {
+        "label": "SparseCategoricalCrossentropy",
+        "importPath": "keras.losses",
+        "description": "keras.losses",
+        "isExtraImport": true,
+        "detail": "keras.losses",
+        "documentation": {}
+    },
+    {
+        "label": "CategoricalCrossentropy",
+        "importPath": "keras.losses",
+        "description": "keras.losses",
+        "isExtraImport": true,
+        "detail": "keras.losses",
+        "documentation": {}
+    },
+    {
+        "label": "SparseCategoricalCrossentropy",
+        "importPath": "keras.losses",
+        "description": "keras.losses",
+        "isExtraImport": true,
+        "detail": "keras.losses",
+        "documentation": {}
+    },
+    {
+        "label": "CategoricalCrossentropy",
+        "importPath": "keras.losses",
+        "description": "keras.losses",
+        "isExtraImport": true,
+        "detail": "keras.losses",
+        "documentation": {}
+    },
+    {
+        "label": "SparseCategoricalCrossentropy",
+        "importPath": "keras.losses",
+        "description": "keras.losses",
+        "isExtraImport": true,
+        "detail": "keras.losses",
+        "documentation": {}
+    },
+    {
+        "label": "CategoricalCrossentropy",
+        "importPath": "keras.losses",
+        "description": "keras.losses",
+        "isExtraImport": true,
+        "detail": "keras.losses",
+        "documentation": {}
+    },
+    {
+        "label": "SparseCategoricalCrossentropy",
+        "importPath": "keras.losses",
+        "description": "keras.losses",
+        "isExtraImport": true,
+        "detail": "keras.losses",
+        "documentation": {}
+    },
+    {
+        "label": "CategoricalCrossentropy",
+        "importPath": "keras.losses",
+        "description": "keras.losses",
+        "isExtraImport": true,
+        "detail": "keras.losses",
+        "documentation": {}
+    },
+    {
+        "label": "SGD",
+        "importPath": "keras.optimizers",
+        "description": "keras.optimizers",
+        "isExtraImport": true,
+        "detail": "keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "SGD",
+        "importPath": "keras.optimizers",
+        "description": "keras.optimizers",
+        "isExtraImport": true,
+        "detail": "keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "SGD",
+        "importPath": "keras.optimizers",
+        "description": "keras.optimizers",
+        "isExtraImport": true,
+        "detail": "keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "SGD",
+        "importPath": "keras.optimizers",
+        "description": "keras.optimizers",
+        "isExtraImport": true,
+        "detail": "keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "SGD",
+        "importPath": "keras.optimizers",
+        "description": "keras.optimizers",
+        "isExtraImport": true,
+        "detail": "keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "SGD",
+        "importPath": "keras.optimizers",
+        "description": "keras.optimizers",
+        "isExtraImport": true,
+        "detail": "keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "XGBClassifier",
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "isExtraImport": true,
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "XGBClassifier",
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "isExtraImport": true,
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "XGBClassifier",
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "isExtraImport": true,
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "XGBClassifier",
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "isExtraImport": true,
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "XGBClassifier",
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "isExtraImport": true,
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "XGBClassifier",
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "isExtraImport": true,
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "DecisionTreeClassifier",
+        "importPath": "sklearn.tree",
+        "description": "sklearn.tree",
+        "isExtraImport": true,
+        "detail": "sklearn.tree",
+        "documentation": {}
+    },
+    {
+        "label": "DecisionTreeClassifier",
+        "importPath": "sklearn.tree",
+        "description": "sklearn.tree",
+        "isExtraImport": true,
+        "detail": "sklearn.tree",
+        "documentation": {}
+    },
+    {
+        "label": "DecisionTreeClassifier",
+        "importPath": "sklearn.tree",
+        "description": "sklearn.tree",
+        "isExtraImport": true,
+        "detail": "sklearn.tree",
+        "documentation": {}
+    },
+    {
+        "label": "DecisionTreeClassifier",
+        "importPath": "sklearn.tree",
+        "description": "sklearn.tree",
+        "isExtraImport": true,
+        "detail": "sklearn.tree",
+        "documentation": {}
+    },
+    {
+        "label": "DecisionTreeClassifier",
+        "importPath": "sklearn.tree",
+        "description": "sklearn.tree",
+        "isExtraImport": true,
+        "detail": "sklearn.tree",
+        "documentation": {}
+    },
+    {
+        "label": "DecisionTreeClassifier",
+        "importPath": "sklearn.tree",
+        "description": "sklearn.tree",
+        "isExtraImport": true,
+        "detail": "sklearn.tree",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "images_path",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "images_path = {}\nimages_path[\"Covid\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.png\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpeg\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpg\")\nimages_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"Covid\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "images_path[\"Covid\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.png\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpeg\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpg\")\nimages_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"NoFindings\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "images_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])\nprint(images_path[\"NoFindings\"])\nprint(images_path[\"Pneumonia\"])\nimages_class = {",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"Pneumonia\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "images_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])\nprint(images_path[\"NoFindings\"])\nprint(images_path[\"Pneumonia\"])\nimages_class = {\n    \"Covid\": 0,\n    \"Pneumonia\": 1,\n    \"NoFindings\": 2",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "images_class",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "images_class = {\n    \"Covid\": 0,\n    \"Pneumonia\": 1,\n    \"NoFindings\": 2\n}\nX = []\nY = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "X = []\nY = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)\n        image = cv2.resize(image,(224, 224))\n        X.append(image)\n        Y.append(images_class[label])\nplt.imshow(X[0])\nplt.show()",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "Y",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "Y = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)\n        image = cv2.resize(image,(224, 224))\n        X.append(image)\n        Y.append(images_class[label])\nplt.imshow(X[0])\nplt.show()\nprint(np.array(X).shape)",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "x = np.array(X)\ny = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "y = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "pre_trained_models",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "pre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "pre_trained_models[\"DenseNet169\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "pre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "X_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "X_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "X_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "flatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "flatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\n# Y_pred = {}\nresult = {}",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "flatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\n# Y_pred = {}\nresult = {}\nXGB_Classifier = XGBClassifier()",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "flatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\n# Y_pred = {}\nresult = {}\nXGB_Classifier = XGBClassifier()\nprint(f\"features shape : \", flatten_feature_train.shape)\n\"\"\"fit XGBoost classifier\"\"\"\nXGB_Classifier.fit(flatten_feature_train, Y_train)",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "result = {}\nXGB_Classifier = XGBClassifier()\nprint(f\"features shape : \", flatten_feature_train.shape)\n\"\"\"fit XGBoost classifier\"\"\"\nXGB_Classifier.fit(flatten_feature_train, Y_train)\nY_pred = XGB_Classifier.predict(flatten_feature_test)\n\"\"\"print result\"\"\"\nresult[\"Accuracy score\"] = accuracy_score(Y_test, Y_pred)\nresult[\"confusion matrix\"] = confusion_matrix(Y_test, Y_pred)\nresult[\"f1 score\"] = f1_score(Y_test, Y_pred, average=\"macro\")",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "XGB_Classifier",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "XGB_Classifier = XGBClassifier()\nprint(f\"features shape : \", flatten_feature_train.shape)\n\"\"\"fit XGBoost classifier\"\"\"\nXGB_Classifier.fit(flatten_feature_train, Y_train)\nY_pred = XGB_Classifier.predict(flatten_feature_test)\n\"\"\"print result\"\"\"\nresult[\"Accuracy score\"] = accuracy_score(Y_test, Y_pred)\nresult[\"confusion matrix\"] = confusion_matrix(Y_test, Y_pred)\nresult[\"f1 score\"] = f1_score(Y_test, Y_pred, average=\"macro\")\nresult[\"precision score\"] = precision_score(Y_test, Y_pred, average=\"macro\")",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "Y_pred",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_default",
+        "description": "DenseNet169.densenet169_default",
+        "peekOfCode": "Y_pred = XGB_Classifier.predict(flatten_feature_test)\n\"\"\"print result\"\"\"\nresult[\"Accuracy score\"] = accuracy_score(Y_test, Y_pred)\nresult[\"confusion matrix\"] = confusion_matrix(Y_test, Y_pred)\nresult[\"f1 score\"] = f1_score(Y_test, Y_pred, average=\"macro\")\nresult[\"precision score\"] = precision_score(Y_test, Y_pred, average=\"macro\")\nresult[\"recall score\"] = recall_score(Y_test, Y_pred, average=\"macro\")\nprint(f\"\\n============\")\nprint(f\"\\nAccuracy score : \", result[\"Accuracy score\"])\nprint(f\"\\nconfusion matrix : \\n\", result[\"confusion matrix\"])",
+        "detail": "DenseNet169.densenet169_default",
+        "documentation": {}
+    },
+    {
+        "label": "images_path",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "images_path = {}\nimages_path[\"Covid\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.png\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpeg\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpg\")\nimages_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"Covid\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "images_path[\"Covid\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.png\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpeg\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpg\")\nimages_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"NoFindings\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "images_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])\nprint(images_path[\"NoFindings\"])\nprint(images_path[\"Pneumonia\"])\nimages_class = {",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"Pneumonia\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "images_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])\nprint(images_path[\"NoFindings\"])\nprint(images_path[\"Pneumonia\"])\nimages_class = {\n    \"Covid\": 0,\n    \"Pneumonia\": 1,\n    \"NoFindings\": 2",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "images_class",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "images_class = {\n    \"Covid\": 0,\n    \"Pneumonia\": 1,\n    \"NoFindings\": 2\n}\nX = []\nY = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "X = []\nY = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)\n        image = cv2.resize(image,(224, 224))\n        X.append(image)\n        Y.append(images_class[label])\nplt.imshow(X[0])\nplt.show()",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "Y",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "Y = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)\n        image = cv2.resize(image,(224, 224))\n        X.append(image)\n        Y.append(images_class[label])\nplt.imshow(X[0])\nplt.show()\nprint(np.array(X).shape)",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "x = np.array(X)\ny = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "y = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "pre_trained_models",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "pre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "pre_trained_models[\"DenseNet169\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "pre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "X_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "X_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "X_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "flatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "flatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\nY_pred = {}\nresult = {}",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "flatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\nY_pred = {}\nresult = {}\n# learning_reate = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "flatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\nY_pred = {}\nresult = {}\n# learning_reate = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]\n# print(learning_reate)\nfor lr in [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]:\n    print(f\"\\n=======learning_reate {lr}=====\")",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "Y_pred",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "Y_pred = {}\nresult = {}\n# learning_reate = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]\n# print(learning_reate)\nfor lr in [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]:\n    print(f\"\\n=======learning_reate {lr}=====\")\n    XGB_Classifier = XGBClassifier(n_estimator=100, learning_rate=lr)\n    print(f\"features shape : \", flatten_feature_train.shape)\n    XGB_Classifier.fit(flatten_feature_train, Y_train)\n    Y_pred[lr] = XGB_Classifier.predict(flatten_feature_test)",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "result = {}\n# learning_reate = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]\n# print(learning_reate)\nfor lr in [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]:\n    print(f\"\\n=======learning_reate {lr}=====\")\n    XGB_Classifier = XGBClassifier(n_estimator=100, learning_rate=lr)\n    print(f\"features shape : \", flatten_feature_train.shape)\n    XGB_Classifier.fit(flatten_feature_train, Y_train)\n    Y_pred[lr] = XGB_Classifier.predict(flatten_feature_test)\n    result[lr] = {}",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "Y_pred",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "peekOfCode": "Y_pred = XGB_Classifier.predict(flatten_feature_test)\n\"\"\"print result\"\"\"\nresult[\"Accuracy score\"] = accuracy_score(Y_test, Y_pred)\nresult[\"confusion matrix\"] = confusion_matrix(Y_test, Y_pred)\nresult[\"f1 score\"] = f1_score(Y_test, Y_pred, average=\"macro\")\nresult[\"precision score\"] = precision_score(Y_test, Y_pred, average=\"macro\")\nresult[\"recall score\"] = recall_score(Y_test, Y_pred, average=\"macro\")\nprint(f\"\\n============\")\nprint(f\"\\nAccuracy score : \", result[\"Accuracy score\"])\nprint(f\"\\nconfusion matrix : \\n\", result[\"confusion matrix\"])",
+        "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "images_path = {}\nimages_path[\"Covid\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.png\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpeg\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpg\")\nimages_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"Covid\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "images_path[\"Covid\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.png\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpeg\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpg\")\nimages_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"NoFindings\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "images_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])\nprint(images_path[\"NoFindings\"])\nprint(images_path[\"Pneumonia\"])\nimages_class = {",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"Pneumonia\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "images_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])\nprint(images_path[\"NoFindings\"])\nprint(images_path[\"Pneumonia\"])\nimages_class = {\n    \"Covid\": 0,\n    \"Pneumonia\": 1,\n    \"NoFindings\": 2",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "images_class",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "images_class = {\n    \"Covid\": 0,\n    \"Pneumonia\": 1,\n    \"NoFindings\": 2\n}\nX = []\nY = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "X = []\nY = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)\n        image = cv2.resize(image,(224, 224))\n        X.append(image)\n        Y.append(images_class[label])\nplt.imshow(X[0])\nplt.show()",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "Y",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "Y = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)\n        image = cv2.resize(image,(224, 224))\n        X.append(image)\n        Y.append(images_class[label])\nplt.imshow(X[0])\nplt.show()\nprint(np.array(X).shape)",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "x = np.array(X)\ny = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "y = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "pre_trained_models",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "pre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "pre_trained_models[\"DenseNet169\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "pre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "X_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "X_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "X_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "flatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "flatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\nY_pred = {}\nresult = {}",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "flatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\nY_pred = {}\nresult = {}\n# learning_reate = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "flatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\nY_pred = {}\nresult = {}\n# learning_reate = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]\n# print(learning_reate)\nfor lr in [0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]:\n    print(f\"\\n=======learning_reate {lr}=====\")",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "Y_pred",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "Y_pred = {}\nresult = {}\n# learning_reate = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]\n# print(learning_reate)\nfor lr in [0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]:\n    print(f\"\\n=======learning_reate {lr}=====\")\n    XGB_Classifier = XGBClassifier(n_estimator=100, learning_rate=lr)\n    print(f\"features shape : \", flatten_feature_train.shape)\n    XGB_Classifier.fit(flatten_feature_train, Y_train)\n    Y_pred[lr] = XGB_Classifier.predict(flatten_feature_test)",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "result = {}\n# learning_reate = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]\n# print(learning_reate)\nfor lr in [0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]:\n    print(f\"\\n=======learning_reate {lr}=====\")\n    XGB_Classifier = XGBClassifier(n_estimator=100, learning_rate=lr)\n    print(f\"features shape : \", flatten_feature_train.shape)\n    XGB_Classifier.fit(flatten_feature_train, Y_train)\n    Y_pred[lr] = XGB_Classifier.predict(flatten_feature_test)\n    result[lr] = {}",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "Y_pred",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "peekOfCode": "Y_pred = XGB_Classifier.predict(flatten_feature_test)\n\"\"\"print result\"\"\"\nresult[\"Accuracy score\"] = accuracy_score(Y_test, Y_pred)\nresult[\"confusion matrix\"] = confusion_matrix(Y_test, Y_pred)\nresult[\"f1 score\"] = f1_score(Y_test, Y_pred, average=\"macro\")\nresult[\"precision score\"] = precision_score(Y_test, Y_pred, average=\"macro\")\nresult[\"recall score\"] = recall_score(Y_test, Y_pred, average=\"macro\")\nprint(f\"\\n============\")\nprint(f\"\\nAccuracy score : \", result[\"Accuracy score\"])\nprint(f\"\\nconfusion matrix : \\n\", result[\"confusion matrix\"])",
+        "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "images_path = {}\nimages_path[\"Covid\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.png\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpeg\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpg\")\nimages_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"Covid\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "images_path[\"Covid\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.png\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpeg\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpg\")\nimages_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"NoFindings\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "images_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])\nprint(images_path[\"NoFindings\"])\nprint(images_path[\"Pneumonia\"])\nimages_class = {",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"Pneumonia\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "images_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])\nprint(images_path[\"NoFindings\"])\nprint(images_path[\"Pneumonia\"])\nimages_class = {\n    \"Covid\": 0,\n    \"Pneumonia\": 1,\n    \"NoFindings\": 2",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "images_class",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "images_class = {\n    \"Covid\": 0,\n    \"Pneumonia\": 1,\n    \"NoFindings\": 2\n}\nX = []\nY = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "X = []\nY = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)\n        image = cv2.resize(image,(224, 224))\n        X.append(image)\n        Y.append(images_class[label])\nplt.imshow(X[0])\nplt.show()",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "Y",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "Y = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)\n        image = cv2.resize(image,(224, 224))\n        X.append(image)\n        Y.append(images_class[label])\nplt.imshow(X[0])\nplt.show()\nprint(np.array(X).shape)",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "x = np.array(X)\ny = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "y = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "pre_trained_models",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "pre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "pre_trained_models[\"DenseNet169\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "pre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "X_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "X_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "X_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "flatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "flatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\n# Y_pred = {}\nresult = {}",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "flatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\n# Y_pred = {}\nresult = {}\nn_estimator = [x*10 for x in range(10)]",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "flatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\n# Y_pred = {}\nresult = {}\nn_estimator = [x*10 for x in range(10)]\nprint(n_estimator)\nfor lr in n_estimator:\n    XGB_Classifier = XGBClassifier(n_estimator=lr)",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "result = {}\nn_estimator = [x*10 for x in range(10)]\nprint(n_estimator)\nfor lr in n_estimator:\n    XGB_Classifier = XGBClassifier(n_estimator=lr)\n    print(f\"features shape : \", flatten_feature_train.shape)\n    XGB_Classifier.fit(flatten_feature_train, Y_train)\n    Y_pred = XGB_Classifier.predict(flatten_feature_test)\n    result[lr] = {}\n    result[lr][\"Accuracy score\"] = accuracy_score(Y_test, Y_pred)",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "n_estimator",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "n_estimator = [x*10 for x in range(10)]\nprint(n_estimator)\nfor lr in n_estimator:\n    XGB_Classifier = XGBClassifier(n_estimator=lr)\n    print(f\"features shape : \", flatten_feature_train.shape)\n    XGB_Classifier.fit(flatten_feature_train, Y_train)\n    Y_pred = XGB_Classifier.predict(flatten_feature_test)\n    result[lr] = {}\n    result[lr][\"Accuracy score\"] = accuracy_score(Y_test, Y_pred)\n    result[lr][\"confusion matrix\"] = confusion_matrix(Y_test, Y_pred)",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "Y_pred",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "description": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "peekOfCode": "Y_pred = XGB_Classifier.predict(flatten_feature_test)\n\"\"\"print result\"\"\"\nresult[\"Accuracy score\"] = accuracy_score(Y_test, Y_pred)\nresult[\"confusion matrix\"] = confusion_matrix(Y_test, Y_pred)\nresult[\"f1 score\"] = f1_score(Y_test, Y_pred, average=\"macro\")\nresult[\"precision score\"] = precision_score(Y_test, Y_pred, average=\"macro\")\nresult[\"recall score\"] = recall_score(Y_test, Y_pred, average=\"macro\")\nprint(f\"\\n============\")\nprint(f\"\\nAccuracy score : \", result[\"Accuracy score\"])\nprint(f\"\\nconfusion matrix : \\n\", result[\"confusion matrix\"])",
+        "detail": "DenseNet169.densenet169_n_estimator(0_100_10)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "images_path = {}\nimages_path[\"Covid\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.png\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpeg\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpg\")\nimages_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"Covid\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "images_path[\"Covid\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.png\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpeg\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpg\")\nimages_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"NoFindings\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "images_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])\nprint(images_path[\"NoFindings\"])\nprint(images_path[\"Pneumonia\"])\nimages_class = {",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"Pneumonia\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "images_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])\nprint(images_path[\"NoFindings\"])\nprint(images_path[\"Pneumonia\"])\nimages_class = {\n    \"Covid\": 0,\n    \"Pneumonia\": 1,\n    \"NoFindings\": 2",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "images_class",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "images_class = {\n    \"Covid\": 0,\n    \"Pneumonia\": 1,\n    \"NoFindings\": 2\n}\nX = []\nY = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "X = []\nY = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)\n        image = cv2.resize(image,(224, 224))\n        X.append(image)\n        Y.append(images_class[label])\nplt.imshow(X[0])\nplt.show()",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "Y",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "Y = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)\n        image = cv2.resize(image,(224, 224))\n        X.append(image)\n        Y.append(images_class[label])\nplt.imshow(X[0])\nplt.show()\nprint(np.array(X).shape)",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "x = np.array(X)\ny = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "y = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "pre_trained_models",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "pre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "pre_trained_models[\"DenseNet169\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "pre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "X_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "X_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "X_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "flatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "flatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\n# Y_pred = {}\nresult = {}",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "flatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\n# Y_pred = {}\nresult = {}\nn_estimator = [10, 50, 100, 200]",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "flatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\n# Y_pred = {}\nresult = {}\nn_estimator = [10, 50, 100, 200]\nprint(n_estimator)\nfor lr in n_estimator:\n    print(f\"\\n=======n_estimator{lr}=====\")",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "result = {}\nn_estimator = [10, 50, 100, 200]\nprint(n_estimator)\nfor lr in n_estimator:\n    print(f\"\\n=======n_estimator{lr}=====\")\n    XGB_Classifier = XGBClassifier(n_estimator=lr)\n    print(f\"features shape : \", flatten_feature_train.shape)\n    XGB_Classifier.fit(flatten_feature_train, Y_train)\n    Y_pred = XGB_Classifier.predict(flatten_feature_test)\n    result[lr] = {}",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "n_estimator",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "n_estimator = [10, 50, 100, 200]\nprint(n_estimator)\nfor lr in n_estimator:\n    print(f\"\\n=======n_estimator{lr}=====\")\n    XGB_Classifier = XGBClassifier(n_estimator=lr)\n    print(f\"features shape : \", flatten_feature_train.shape)\n    XGB_Classifier.fit(flatten_feature_train, Y_train)\n    Y_pred = XGB_Classifier.predict(flatten_feature_test)\n    result[lr] = {}\n    result[lr][\"Accuracy score\"] = accuracy_score(Y_test, Y_pred)",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "Y_pred",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "description": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "peekOfCode": "Y_pred = XGB_Classifier.predict(flatten_feature_test)\n\"\"\"print result\"\"\"\nresult[\"Accuracy score\"] = accuracy_score(Y_test, Y_pred)\nresult[\"confusion matrix\"] = confusion_matrix(Y_test, Y_pred)\nresult[\"f1 score\"] = f1_score(Y_test, Y_pred, average=\"macro\")\nresult[\"precision score\"] = precision_score(Y_test, Y_pred, average=\"macro\")\nresult[\"recall score\"] = recall_score(Y_test, Y_pred, average=\"macro\")\nprint(f\"\\n============\")\nprint(f\"\\nAccuracy score : \", result[\"Accuracy score\"])\nprint(f\"\\nconfusion matrix : \\n\", result[\"confusion matrix\"])",
+        "detail": "DenseNet169.densenet169_n_estimator(10.50.100.200)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "images_path = {}\nimages_path[\"Covid\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.png\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpeg\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpg\")\nimages_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"Covid\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "images_path[\"Covid\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.png\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpeg\")\nimages_path[\"Covid\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Covid-19/*.jpg\")\nimages_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"NoFindings\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "images_path[\"NoFindings\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.png\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpeg\")\nimages_path[\"NoFindings\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/No_findings/*.jpg\")\nimages_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])\nprint(images_path[\"NoFindings\"])\nprint(images_path[\"Pneumonia\"])\nimages_class = {",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "images_path[\"Pneumonia\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "images_path[\"Pneumonia\"] = glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.png\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpeg\")\nimages_path[\"Pneumonia\"] += glob(\"/content/COVID-19-master/X-Ray Image DataSet/Pneumonia/*.jpg\")\nprint(images_path[\"Covid\"])\nprint(images_path[\"NoFindings\"])\nprint(images_path[\"Pneumonia\"])\nimages_class = {\n    \"Covid\": 0,\n    \"Pneumonia\": 1,\n    \"NoFindings\": 2",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "images_class",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "images_class = {\n    \"Covid\": 0,\n    \"Pneumonia\": 1,\n    \"NoFindings\": 2\n}\nX = []\nY = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "X = []\nY = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)\n        image = cv2.resize(image,(224, 224))\n        X.append(image)\n        Y.append(images_class[label])\nplt.imshow(X[0])\nplt.show()",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "Y",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "Y = []\nfor label in images_path:\n    for image_path in images_path[label]:\n        image = cv2.imread(image_path)\n        image = cv2.resize(image,(224, 224))\n        X.append(image)\n        Y.append(images_class[label])\nplt.imshow(X[0])\nplt.show()\nprint(np.array(X).shape)",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "x = np.array(X)\ny = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "y = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "pre_trained_models",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "pre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "pre_trained_models[\"DenseNet169\"]",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "pre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "X_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "X_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "X_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "flatten_feature_train = []\nfor item in X_train:\n    flatten_feature_train.append(item.flatten())\nflatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_train",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "flatten_feature_train = np.array(flatten_feature_train)\nflatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\n# Y_pred = {}\nresult = {}",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "flatten_feature_test = []\nfor item in X_test:\n    flatten_feature_test.append(item.flatten())\nflatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\n# Y_pred = {}\nresult = {}\n# learning_reate = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_feature_test",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "flatten_feature_test = np.array(flatten_feature_test)\n\"\"\"# Classification\ninitial XGBoost classifier\n\"\"\"\n# Y_pred = {}\nresult = {}\n# learning_reate = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]\n# print(learning_reate)\nfor lr in [100]:\n    print(f\"\\n=======learning_reate{lr}=====\")",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "result = {}\n# learning_reate = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]\n# print(learning_reate)\nfor lr in [100]:\n    print(f\"\\n=======learning_reate{lr}=====\")\n    XGB_Classifier = XGBClassifier(n_estimator=lr)\n    print(f\"features shape : \", flatten_feature_train.shape)\n    XGB_Classifier.fit(flatten_feature_train, Y_train)\n    Y_pred = XGB_Classifier.predict(flatten_feature_test)\n    result[lr] = {}",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    },
+    {
+        "label": "Y_pred",
+        "kind": 5,
+        "importPath": "DenseNet169.densenet169_n_estimator(100)",
+        "description": "DenseNet169.densenet169_n_estimator(100)",
+        "peekOfCode": "Y_pred = XGB_Classifier.predict(flatten_feature_test)\n\"\"\"print result\"\"\"\nresult[\"Accuracy score\"] = accuracy_score(Y_test, Y_pred)\nresult[\"confusion matrix\"] = confusion_matrix(Y_test, Y_pred)\nresult[\"f1 score\"] = f1_score(Y_test, Y_pred, average=\"macro\")\nresult[\"precision score\"] = precision_score(Y_test, Y_pred, average=\"macro\")\nresult[\"recall score\"] = recall_score(Y_test, Y_pred, average=\"macro\")\nprint(f\"\\n============\")\nprint(f\"\\nAccuracy score : \", result[\"Accuracy score\"])\nprint(f\"\\nconfusion matrix : \\n\", result[\"confusion matrix\"])",
+        "detail": "DenseNet169.densenet169_n_estimator(100)",
+        "documentation": {}
+    }
+]
