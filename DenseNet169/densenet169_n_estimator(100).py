@@ -96,8 +96,7 @@ y = np.array(Y)
 
 # initial pre trained model
 pre_trained_models = {}
-pre_trained_models["DenseNet169"] = DenseNet169(include_top=False, inp
-                                                ut_shape=(224, 224, 3))
+pre_trained_models["DenseNet169"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))
 
 print(np.array(x).shape)
 

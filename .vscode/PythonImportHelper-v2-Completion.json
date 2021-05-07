@@ -1705,7 +1705,7 @@
         "kind": 5,
         "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
         "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
-        "peekOfCode": "x = np.array(X)\ny = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"",
+        "peekOfCode": "x = np.array(X)\ny = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)",
         "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
         "documentation": {}
     },
@@ -1714,7 +1714,7 @@
         "kind": 5,
         "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
         "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
-        "peekOfCode": "y = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)",
+        "peekOfCode": "y = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)",
         "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
         "documentation": {}
     },
@@ -1723,7 +1723,7 @@
         "kind": 5,
         "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
         "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
-        "peekOfCode": "pre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)",
+        "peekOfCode": "pre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []",
         "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
         "documentation": {}
     },
@@ -1732,7 +1732,7 @@
         "kind": 5,
         "importPath": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
         "description": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
-        "peekOfCode": "pre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []",
+        "peekOfCode": "pre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:",
         "detail": "DenseNet169.densenet169_learning_rate(0_1.0_2)",
         "documentation": {}
     },
@@ -1885,7 +1885,7 @@
         "kind": 5,
         "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
         "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
-        "peekOfCode": "x = np.array(X)\ny = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"",
+        "peekOfCode": "x = np.array(X)\ny = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)",
         "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
         "documentation": {}
     },
@@ -1894,7 +1894,7 @@
         "kind": 5,
         "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
         "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
-        "peekOfCode": "y = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)",
+        "peekOfCode": "y = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)",
         "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
         "documentation": {}
     },
@@ -1903,7 +1903,7 @@
         "kind": 5,
         "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
         "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
-        "peekOfCode": "pre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)",
+        "peekOfCode": "pre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []",
         "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
         "documentation": {}
     },
@@ -1912,7 +1912,7 @@
         "kind": 5,
         "importPath": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
         "description": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
-        "peekOfCode": "pre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []",
+        "peekOfCode": "pre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:",
         "detail": "DenseNet169.densenet169_learning_rate(0_3._.0_9)",
         "documentation": {}
     },
@@ -2425,7 +2425,7 @@
         "kind": 5,
         "importPath": "DenseNet169.densenet169_n_estimator(100)",
         "description": "DenseNet169.densenet169_n_estimator(100)",
-        "peekOfCode": "x = np.array(X)\ny = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"",
+        "peekOfCode": "x = np.array(X)\ny = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)",
         "detail": "DenseNet169.densenet169_n_estimator(100)",
         "documentation": {}
     },
@@ -2434,7 +2434,7 @@
         "kind": 5,
         "importPath": "DenseNet169.densenet169_n_estimator(100)",
         "description": "DenseNet169.densenet169_n_estimator(100)",
-        "peekOfCode": "y = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)",
+        "peekOfCode": "y = np.array(Y)\n# initial pre trained model\npre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)",
         "detail": "DenseNet169.densenet169_n_estimator(100)",
         "documentation": {}
     },
@@ -2443,7 +2443,7 @@
         "kind": 5,
         "importPath": "DenseNet169.densenet169_n_estimator(100)",
         "description": "DenseNet169.densenet169_n_estimator(100)",
-        "peekOfCode": "pre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)",
+        "peekOfCode": "pre_trained_models = {}\npre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []",
         "detail": "DenseNet169.densenet169_n_estimator(100)",
         "documentation": {}
     },
@@ -2452,7 +2452,7 @@
         "kind": 5,
         "importPath": "DenseNet169.densenet169_n_estimator(100)",
         "description": "DenseNet169.densenet169_n_estimator(100)",
-        "peekOfCode": "pre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, inp\n                                                ut_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []",
+        "peekOfCode": "pre_trained_models[\"DenseNet169\"] = DenseNet169(include_top=False, input_shape=(224, 224, 3))\nprint(np.array(x).shape)\n\"\"\"# Split train and test data\nslpit and make flatten features\n\"\"\"\nX_train, X_test, Y_train, Y_test = train_test_split(x, y, test_size=0.2)\nX_train = pre_trained_models[\"DenseNet169\"].predict(X_train)\nX_test = pre_trained_models[\"DenseNet169\"].predict(X_test)\nflatten_feature_train = []\nfor item in X_train:",
         "detail": "DenseNet169.densenet169_n_estimator(100)",
         "documentation": {}
     },
