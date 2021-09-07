@@ -2,7 +2,7 @@
 Here we're going to classify given CXR images and distinguish whether if there is any sign of covid-19, pneumonia or not. In this documentation  only the methods that gave us the best results are included in the code.
 
 ## Dataset
-click here to [download](links) dataset
+click here to [download](https://github.com/muhammedtalo/COVID-19/tree/master/X-Ray%20Image%20DataSet) dataset
 
 ## How it works?
 in this code we're using extracted features of each image and then use classification methods for classify images
